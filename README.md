@@ -23,8 +23,7 @@
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/nike_landing_page.git
-cd nike_landing_page
+https://github.com/iatharva6119/nike_website.git
 ```
 
 **Installation**
@@ -39,7 +38,7 @@ npm install
 **Running the Project**
 
 ```bash
-npm start
+npm run dev
 ```
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
