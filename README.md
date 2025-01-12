@@ -1,7 +1,6 @@
 
-👉 **JavaScript-like Tasks with Tailwind**: Discover how Tailwind CSS can be used to achieve tasks that typically require JavaScript code
 
-while building a beautiful Nike Website with a,
+
 
 👉 **Complex Hero Section**: A visually appealing hero section showcasing key elements.
 
